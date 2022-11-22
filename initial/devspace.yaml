@@ -9,7 +9,6 @@ vars:
 images:
   app:
     image: ${REGISTRY}/gs-spring-boot-moc
-    dockerfile: ./Dockerfile
     buildKit:
       inCluster: {}
 
