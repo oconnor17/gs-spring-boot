@@ -18,5 +18,5 @@ Build and deploy the code to a target namespace
 
 Run the code in Dev Mode
 
-   devspace dev
+    devspace dev
 
