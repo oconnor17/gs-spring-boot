@@ -6,7 +6,6 @@ name: gs-spring-boot-moc
 images:
   app:
     image: ixaksdev4.azurecr.io/gs-spring-boot-moc
-    dockerfile: ./Dockerfile
     buildKit:
       inCluster: {}
 
