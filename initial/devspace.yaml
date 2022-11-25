@@ -36,7 +36,6 @@ deployments:
                 cpu: 1
               limits:
                 memory: 4Gi
-                cpu: 1
         service:
           ports:
             - port: 8080
